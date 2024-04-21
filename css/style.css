@@ -1,10 +1,10 @@
 body {
   font-family: Arial, Helvetica, Sans-serif;
-  background: linear-gradient(
+  background: radial-gradient(
     white,
-    rgb(39, 152, 208),
-    rgb(118, 209, 255),
-    rgb(151, 206, 226)
+    rgb(169, 184, 217),
+    rgb(169, 184, 217),
+    rgb(169, 184, 217)
   );
 }
 
@@ -45,7 +45,7 @@ img {
   font-style: normal;
   font-size: 65px;
   margin: 30px 0;
-  color: #da400d;
+  color: #3B342C;
   padding: 10px;
   text-shadow: 0 0 10px rgb(255, 255, 255);
 }
@@ -57,7 +57,7 @@ img {
   margin: 0;
   padding: 0;
   font-size: 24px;
-  color: #da400d;
+  color: #3B342C;
   line-height: 1;
   text-shadow: 0 0 10px rgb(255, 255, 255);
 }
@@ -67,7 +67,7 @@ img {
   font-weight: bolder;
   font-style: normal;
   font-size: 32px;
-  color: #fc1717;
+  color: #3B342C;
   margin: 16px;
   text-align: center;
 }
